@@ -1,6 +1,6 @@
 #This is a simple bmi calculator. 
 #It takes user inputs such as height in meters and weight in kilograms
-
+print("This is a BMI Calculator")
 print("Please enter your height in meters!")
 height = input() # stored as str 
 print("Please enter weight in kg!")
