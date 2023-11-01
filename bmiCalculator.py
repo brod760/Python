@@ -9,4 +9,4 @@ int_weight = int(weight)
 float_height = float(height) #you have to use the float to be able to maths 
 bmi = int_weight / (float_height **2) # ** rasies the ^2
 finalbmi = round(bmi)  # round function gives the nearest whole number 
-print(f"Your bmi is {finalbmi}")
+print(f"Your bmi is {finalbmi}") #use of the fstring to display BMI in sentence!
