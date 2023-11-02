@@ -1,3 +1,6 @@
+#simple tip calculator, will split the bil and also calculate tip based on fixed rated 
+# update will include user to select their own tip amount. 
+
 print("Welcome to the Tip Calculator")
 bill = float(input("What was the total of the bill? ")) #input is saved as str
 Numberof_ppl = int(input("How many people will split the bill?" )) #input is saved as str
